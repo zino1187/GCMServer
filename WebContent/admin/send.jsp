@@ -5,7 +5,7 @@
 <%@ page import="com.google.android.gcm.server.Message"%>
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%!
-	String apiKey="AIzaSyAPa-x8fhkVkRxWwfFZ7uCH111ojsmpb4o";
+	String apiKey="";
 %>
 <%
 	//클라이언트가 전송한 파라미터값들을 받아서, 해당 regid에 메세지 전송하자!!
